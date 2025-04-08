@@ -1,10 +1,16 @@
 package com.juaracoding;
 
-import java.awt.*;
+/*
+IntelliJ IDEA 2024.3.4.1 (Community Edition)
+Build #IC-243.25659.59, built on March 5, 2025
+@Author krisna a.k.a. Krisna Ajie
+Java Developer
+Created on 08/04/25 19.20
+@Last Modified 08/04/25 19.20
+Version 1.0
+*/
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class Variable {
     public static void main(String[] args) {
         String firstName = "Krisna";
         String lastName = "Ajie";
